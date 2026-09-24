@@ -1,2 +1,2 @@
-# Power_Projects 
+# Machine Learning_Projects 
  This repo comprises of all my unique machine Learning projects that solves major problems with regards to smart grid and distributed energy resources (DERs)
